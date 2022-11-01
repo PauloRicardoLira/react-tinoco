@@ -1,0 +1,57 @@
+{
+  "info": {
+    "details": "",
+    "highlights": {
+      "github": {
+        "count": 1,
+        "synonymous": [
+          "github"
+        ]
+      }
+    },
+    "authors": [
+      "Contacts",
+      "Github",
+      "Sibelius Seraphini",
+      "Twitter"
+    ]
+  },
+  "messages": [
+    {
+      "id": "655d77d9-8968-4df3-b4d9-31580714a4fb",
+      "img": null,
+      "username": "Sibelius Seraphini",
+      "time": "0:00 PM",
+      "msg": "<p>Full Stack Developer - expert in</p>\n",
+      "messages": [],
+      "highlights": ""
+    },
+    {
+      "id": "7b5bcba5-6e6b-4390-8679-ac67ec47ad35",
+      "img": null,
+      "username": "Github",
+      "time": "0:00 PM",
+      "msg": "<p><a href=\"https://github.com/sibeliu\">https://github.com/sibeliu</a></p>\n",
+      "messages": [],
+      "highlights": "github"
+    },
+    {
+      "id": "6ed83bc4-643c-4dff-8454-560e5c02bc97",
+      "img": null,
+      "username": "Twitter",
+      "time": "0:00 PM",
+      "msg": "<p><a href=\"https://twitter.com/sseraphini\">https://twitter.com/sseraphini</a></p>\n",
+      "messages": [],
+      "highlights": ""
+    },
+    {
+      "id": "ceda732b-c51d-41da-b9d9-53c7e56a66f8",
+      "img": null,
+      "username": "Contacts",
+      "time": "0:00 PM",
+      "msg": "<p>E-mail: <a href=\"mailto:sibeliusseraphini@gmail.com\">sibeliusseraphini@gmail.com</a></p>\n",
+      "messages": [],
+      "highlights": ""
+    }
+  ]
+}
